@@ -1,7 +1,5 @@
-![Cris — Technical Product Leader & Builder](assets/banner.svg)
+![Cris — Technical Product Leader & Builder](banner.svg)
 
-
-# Hi, I'm Cris 👋
 
 ### Technical Product Leader & Builder
 
